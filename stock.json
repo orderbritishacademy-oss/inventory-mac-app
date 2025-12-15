@@ -1,0 +1,72 @@
+[
+  {
+    "product": "er",
+    "purchased": 67.0,
+    "sold": 0,
+    "available": 67.0,
+    "avg_price": 56.0,
+    "value": 3752.0,
+    "unit": "pcs",
+    "latest_invoice": "P2512050001"
+  },
+  {
+    "product": "aafm 20 book sets",
+    "purchased": 0,
+    "sold": 540.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "books",
+    "latest_invoice": ""
+  },
+  {
+    "product": "book 2",
+    "purchased": 0,
+    "sold": 540.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "books",
+    "latest_invoice": ""
+  },
+  {
+    "product": "book 3",
+    "purchased": 0,
+    "sold": 540.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "books",
+    "latest_invoice": ""
+  },
+  {
+    "product": "book  4",
+    "purchased": 0,
+    "sold": 540.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "books",
+    "latest_invoice": ""
+  },
+  {
+    "product": "book  5",
+    "purchased": 0,
+    "sold": 540.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "books",
+    "latest_invoice": ""
+  },
+  {
+    "product": "PRINTED BOOKS",
+    "purchased": 0,
+    "sold": 1.0,
+    "available": 0,
+    "avg_price": 0.0,
+    "value": 0.0,
+    "unit": "pcs",
+    "latest_invoice": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "invoice": "P2512050001",
+    "date": "2025-12-05 09:42:40",
+    "party": "efeee",
+    "phone": "ewe",
+    "address": "rere",
+    "gst_no": "weewr",
+    "place_of_supply": "ere",
+    "auth_sign": "ewer",
+    "products": [
+      {
+        "product": "er",
+        "unit": "pcs",
+        "qty": 67.0,
+        "rate": 56.0,
+        "discount_pct": 0.0,
+        "tax_pct": 0.0,
+        "subtotal": 3752.0,
+        "discount_amt": 0.0,
+        "tax_amt": 0.0,
+        "total": 3752.0
+      }
+    ],
+    "subtotal": 3752.0,
+    "discount_amt": 0.0,
+    "tax_amt": 0.0,
+    "total": 3752.0,
+    "notes": "rewr"
+  }
+]
